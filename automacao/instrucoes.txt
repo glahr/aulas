@@ -1,0 +1,11 @@
+Para que os arquivos dessa pasta funcionem corretamente é necessário instalar o pacote "Python control".
+
+Siga as instruções:
+
+-- WINDOWS
+1) Abra o prompt de comando clicando em "Iniciar" e digite "cmd" (sem as aspas) e aperte "Enter".
+2) Na tela preta, digite: pip install control
+
+-- LINUX
+1) Abra o terminal: ctrl + alt + t
+2) Digite: pip install control
